@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TLSCheck.Net40", "src\TLSCheck.Net40\TLSCheck.Net40.csproj", "{4FF7C7F7-3389-483B-8947-A47C68AF6623}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TLSCheck.Net45", "src\TLSCheck.Net45\TLSCheck.Net45.csproj", "{FE965495-EB5A-43D1-8B57-869FD8A44381}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TLSCheck.Net451", "src\TLSCheck.Net451\TLSCheck.Net451.csproj", "{B945F60A-8566-40B7-A782-1A770F68396B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TLSCheck.Net452", "src\TLSCheck.Net452\TLSCheck.Net452.csproj", "{98019697-0B97-488D-99D6-2D0F7B6DD166}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FF7C7F7-3389-483B-8947-A47C68AF6623}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FF7C7F7-3389-483B-8947-A47C68AF6623}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FF7C7F7-3389-483B-8947-A47C68AF6623}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FF7C7F7-3389-483B-8947-A47C68AF6623}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE965495-EB5A-43D1-8B57-869FD8A44381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE965495-EB5A-43D1-8B57-869FD8A44381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE965495-EB5A-43D1-8B57-869FD8A44381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE965495-EB5A-43D1-8B57-869FD8A44381}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B945F60A-8566-40B7-A782-1A770F68396B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B945F60A-8566-40B7-A782-1A770F68396B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B945F60A-8566-40B7-A782-1A770F68396B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B945F60A-8566-40B7-A782-1A770F68396B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98019697-0B97-488D-99D6-2D0F7B6DD166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98019697-0B97-488D-99D6-2D0F7B6DD166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98019697-0B97-488D-99D6-2D0F7B6DD166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98019697-0B97-488D-99D6-2D0F7B6DD166}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
