@@ -18,6 +18,9 @@ namespace TLSCheck.Net40
                     string output = client.DownloadString("https://tlscheck.chargify.com/");
                     Console.WriteLine(output);
                 }
+
+                Console.WriteLine("Press any key to stop...");
+                Console.ReadKey();
             }
             catch (Exception ex)
             {
