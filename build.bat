@@ -1,0 +1,1 @@
+msbuild.exe TLSCheck.sln /t:Clean,Build /p:Configuration=Release /p:Platform="Any CPU"
